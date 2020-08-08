@@ -1,6 +1,7 @@
 # Miracle-of-AVG
 Introduce some  AVG.......
 ---
+:star:推荐使用[Octotree](https://github.com/buunguyen/octotree)等插件进行浏览。
 
 在这个项目里，会存放我近期,甚至更久以前的AVG(文字冒险类游戏)的一些体会与感想，也会时不时分享一些游戏资源解包心得.
 
